@@ -1,4 +1,4 @@
-Ken
+Ken HADIR
 Nixon
 Kadek
 Salman
@@ -6,7 +6,12 @@ Fanni
 Nadira
 Esther
 Laksmi
+<<<<<<< HEAD
 Dave - Hadir
 Hanif
+=======
+Dave
+Hanif hadir
+>>>>>>> 65012d268281c9875132b3e41bc180aa2265c163
 Wildhan
-Didi
+Didi - Hadir
